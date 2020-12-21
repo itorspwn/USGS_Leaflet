@@ -1,3 +1,7 @@
+# My Custom Settings 
+
+**/static/js/config.js
+
 .architect
 bootstrap.css
 bootstrap.js
